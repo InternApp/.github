@@ -28,7 +28,7 @@ Subscribe: [Newsletter Signup](https://NewsLetter.UseIntern.com)
 
 ## Get Started
 
-1. Create your Intern. account at [GetIntern.App/SignUp](https://UseIntern.com/SignUp).
+1. Create your Intern. account at [UseIntern.com/SignUp](https://UseIntern.com/SignUp).
 
 2. Build your profile by adding your skills, experiences, and career preferences.
 
