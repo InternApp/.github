@@ -1,6 +1,6 @@
 # Welcome to Intern. - Your Path to Successful Internships!
 
-[![Intern. Banner](https://github.com/InternApp/.github/blob/main/profile/Banner.png)](https://GetIntern.App)
+[![Intern. Banner](https://github.com/InternApp/.github/blob/main/profile/Banner.png)](https://UseIntern.com)
 
 Are you a student looking to kickstart your career with valuable internship experiences? Look no further! Intern. is here to guide you through the process and connect you with exciting internship opportunities.
 
@@ -55,4 +55,4 @@ Follow us on social media to stay updated with the latest news, internship tips,
 
 ---
 
-Don't just envision internships; transform your dreams into tangible reality through **Intern.** Join us and shape your destiny: [GetIntern.app/Signup](https://UseIntern.com/Signup) Together, let's sculpt your internship journey into an odyssey of success with **Intern.**
+Don't just envision internships; transform your dreams into tangible reality through **Intern.** Join us and shape your destiny: [UseIntern.com/Signup](https://UseIntern.com/Signup) Together, let's sculpt your internship journey into an odyssey of success with **Intern.**
